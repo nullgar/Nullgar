@@ -1,7 +1,7 @@
 # About Me
 Hello,
 
-My name is Jonatan Aguilar. I am a Father, Husband, Software Engineer and a current student of Fullstack Development at App Academy
+My name is Jonatan Aguilar. I am a Father, Husband, Software Engineer, and a current student of Fullstack Development at App Academy
 
 [![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=nullgar&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
