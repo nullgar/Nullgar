@@ -1,7 +1,18 @@
 # About Me
 Hello,
 
-My name is Jonatan Aguilar. I am a Father, Husband, Software Engineer, and a current student of Fullstack Development at App Academy
+My name is Jonatan Aguilar I am a Software Engineer.
+
+I am a quick hands-on learner focused on Full Stack Web Development. My core competencies include:
+- Javascript - React - Python - HTML
+- CSS - SQL - Postgres - SQLite - Redux
+
+I am a massive fan of problem-solving and love challenging myself by taking on complex problems. I am life long learner and enjoy continuously improving my skill set and leveling up. I also enjoy dabbling in many facets of technology and improving my general understanding of everything tech related.
+
+On my off time, I enjoy my family time, traveling, exploring, labbing, and trying new foods.
+
+
+
 
 [![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=nullgar&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -13,6 +24,18 @@ My name is Jonatan Aguilar. I am a Father, Husband, Software Engineer, and a cur
 
 # Projects
 
+## [Tweettah](https://tweettah.herokuapp.com)
+
+Tweettah is a clone of Twitter. This application was created with a React/Javascript frontend and a Python backend using Flask and SQLAlchemy with a PostgreSQL database. Created solely by myself, Tweettah is a full-stack application in which users can post tweets, and comments, follow other users and upload images via Amazon S3.
+
+## [The Gramme](https://the-gramme.herokuapp.com/)
+
+The Gramme is a clone of Instagram. This application was created with a React/Javascript frontend and a Python backend using Flask and SQLAlchemy with a PostgreSQL database. Created in collaboration with three software engineers, The Gramme is a full stack application in which users can post content, comment and like other users' content, and follow other users they are interested in.
+
+## [HauntedPNT](https://hauntedpnt.herokuapp.com/)
+
+HauntedPNT is a web app inspired by Yelp but with a spooky twist. This application was created with a React/Javascript frontend and backend using Express.js and PostgreSQL database. Created solely by myself, HauntedPNT is a full-stack application in which users can make new locations, add reviews to locations, and upload images.
+ 
 # Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
