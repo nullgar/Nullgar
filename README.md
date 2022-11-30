@@ -16,7 +16,7 @@ On my off time, I enjoy my family time, traveling, exploring, labbing, and tryin
 
 [![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=nullgar&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nullgar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nullgar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact Me
 
