@@ -12,12 +12,6 @@ I am a massive fan of problem-solving and love challenging myself by taking on c
 On my off time, I enjoy my family time, traveling, exploring, labbing, and trying new foods.
 
 
-
-
-[![Null's GitHub stats](https://github-readme-stats.vercel.app/api?username=nullgar&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nullgar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 # Contact Me
 
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' />](https://www.linkedin.com/in/jon-aguilar/)
