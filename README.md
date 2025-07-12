@@ -1,7 +1,7 @@
 # About Me
 Hello,
 
-My name is Jonatan Aguilar I am a Software Engineer.
+My name is Null I am a Software Engineer.
 
 I am a quick hands-on learner focused on Full Stack Web Development. My core competencies include:
 - Javascript - React - Python - HTML
@@ -14,7 +14,7 @@ On my off time, I enjoy my family time, traveling, exploring, labbing, and tryin
 
 
 
-[![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=nullgar&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Null's GitHub stats](https://github-readme-stats.vercel.app/api?username=nullgar&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nullgar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
